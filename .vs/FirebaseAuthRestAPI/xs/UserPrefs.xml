@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F8B7B35C-9A24-E541-8AE9-D13AF7F5447A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Project/Scripts/Constants.cs">
+    <Files>
+      <File FileName="Assets/_Project/Scripts/FirebaseManager.cs" Line="48" Column="66" />
+      <File FileName="Assets/_Project/Scripts/AppManager.cs" Line="41" Column="5" />
+      <File FileName="Assets/_Project/Scripts/Constants.cs" Line="6" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
