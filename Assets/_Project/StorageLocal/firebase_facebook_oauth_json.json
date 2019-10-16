@@ -1,0 +1,6 @@
+{
+    "postBody": "access_token={facebook_acess_token}&providerId=[facebook.com]",
+    "requestUri": "{url_return}",
+    "returnIdpCredential": true,
+    "returnSecureToken": true
+}

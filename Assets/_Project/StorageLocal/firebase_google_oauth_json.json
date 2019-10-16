@@ -1,0 +1,6 @@
+{
+    "postBody": "id_token={google_id_token}&providerId=[google.com]",
+    "requestUri": "{url_return}",
+    "returnIdpCredential": true,
+    "returnSecureToken": true
+}
